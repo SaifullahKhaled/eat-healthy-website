@@ -57,15 +57,21 @@ p {
   margin-top: 3%;
 }
 .box-1 {
-  width: 40%;
-  margin-left: 7%;
+  border-radius: 40px;
+  padding: 2%;
+  width: 35%;
+  box-shadow: 1px 1px 9px 2px rgb(223, 219, 219);
+  margin-left: 8%;
 }
 .box-1 img {
   width: 100%;
 }
 .box-2 {
-  width: 40%;
-  margin-left: 7%;
+  width: 35%;
+  border-radius: 40px;
+  padding: 2%;
+  box-shadow: 1px 1px 9px 2px rgb(223, 219, 219);
+  margin-left: 5%;
 }
 .box-2 img {
   width: 100%;
