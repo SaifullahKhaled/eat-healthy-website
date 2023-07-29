@@ -43,9 +43,49 @@ p {
   background-image: url(images/shapes/Frame\ 59.jpg);
   background-size: cover;
 }
-#about-me{
-    color: rgb(83, 81, 81);
+#about-me {
+  color: rgb(83, 81, 81);
 }
-#image-two{
-    width: 90%;
+#image-two {
+  width: 90%;
+}
+.top-text {
+  text-align: center;
+}
+.body {
+  display: flex;
+  margin-top: 3%;
+}
+.box-1 {
+  width: 40%;
+  margin-left: 7%;
+}
+.box-1 img {
+  width: 100%;
+}
+.box-2 {
+  width: 40%;
+  margin-left: 7%;
+}
+.box-2 img {
+  width: 100%;
+}
+.body h1 {
+  font-weight: 2em;
+}
+.body p {
+  text-align: justify;
+}
+
+footer {
+  background-color: black;
+  height: 250px;
+  text-align: center;
+  padding: 10px;
+}
+footer h2 {
+  color: grey;
+}
+footer p {
+  color: rgba(33, 102, 122, 0.986);
 }
