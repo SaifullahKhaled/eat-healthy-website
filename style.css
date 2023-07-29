@@ -77,6 +77,19 @@ p {
   text-align: justify;
 }
 
+.media {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 1200px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  margin-left: 11%;
+  margin-bottom: 5%;
+  margin-top: 5%;
+  box-shadow: 1px 1px 9px 2px rgb(223, 219, 219);
+}
+
 footer {
   background-color: black;
   height: 250px;
