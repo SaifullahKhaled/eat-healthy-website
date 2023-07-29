@@ -1,0 +1,40 @@
+body {
+  background-image: url(images/shapes/Frame\ 57.jpg);
+  background-size: cover;
+  padding: 0%;
+  margin: 0%;
+  font-family: "Poppins", sans-serif;
+}
+.Header {
+  display: flex;
+}
+.text {
+  width: 50%;
+  padding: 7%;
+  margin-top: 3%;
+}
+h1 {
+  font-size: 50px;
+}
+span {
+  color: orange;
+}
+p{
+    color: rgb(116, 112, 112);
+    font-size: 20px;
+}
+.image {
+  width: 50%;
+  padding: 5%;
+}
+.image img {
+  width: 100%;
+}
+.btn{
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 20px;
+    border-radius: 30px;
+}
